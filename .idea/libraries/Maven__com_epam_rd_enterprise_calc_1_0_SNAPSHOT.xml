@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.epam.rd:enterprise-calc:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/epam/rd/enterprise-calc/1.0-SNAPSHOT/enterprise-calc-1.0-20161018.150114-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/epam/rd/enterprise-calc/1.0-SNAPSHOT/enterprise-calc-1.0-20161018.150114-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/epam/rd/enterprise-calc/1.0-SNAPSHOT/enterprise-calc-1.0-20161018.150114-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
